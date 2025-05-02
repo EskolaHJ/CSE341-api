@@ -1,4 +1,6 @@
 // server.js
+require("dotenv").config();
+
 const express = require("express");
 const nameRoute = require("./routes/nameRoute");
 

@@ -1,3 +1,7 @@
+# at top of .gitignore
+.env
+
+
 # dependencies
 node_modules/
 
